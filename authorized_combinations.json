@@ -1,0 +1,16 @@
+[
+    {
+        "Machine ID": "135230a4-b882-44fb-a72f-0aaaaac6cbb2",
+        "CPU ID": "Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",
+        "Disk Serial Number": "383813664768",
+        "RAM Size": "7.9 GB",
+        "GPU Info": ["GeForce GTX 960M (GPU-0941f49d-93a8-34f4-c9d5-0eed5500acea)"]
+    },
+    {
+        "Machine ID": "another_machine_id_example",
+        "CPU ID": "Another CPU Model",
+        "Disk Serial Number": "another_disk_serial",
+        "RAM Size": "8.0 GB",
+        "GPU Info": ["Another GPU Model (GPU-uuid-example)"]
+    }
+]
